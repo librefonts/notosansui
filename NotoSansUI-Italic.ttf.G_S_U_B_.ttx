@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=3 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="cyrl"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="grek"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="2">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="2"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=3 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=4 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni02E5">
+            <Ligature components="uni02E5,uni02E6" glyph="glyph02191"/>
+            <Ligature components="uni02E5,uni02E7" glyph="glyph02192"/>
+            <Ligature components="uni02E5,uni02E8" glyph="glyph02193"/>
+            <Ligature components="uni02E5,uni02E9" glyph="glyph02194"/>
+            <Ligature components="uni02E6,uni02E5" glyph="glyph02195"/>
+            <Ligature components="uni02E6,uni02E6" glyph="glyph02196"/>
+            <Ligature components="uni02E6,uni02E7" glyph="glyph02197"/>
+            <Ligature components="uni02E6,uni02E8" glyph="glyph02198"/>
+            <Ligature components="uni02E6,uni02E9" glyph="glyph02199"/>
+            <Ligature components="uni02E6" glyph="glyph02200"/>
+            <Ligature components="uni02E7,uni02E5" glyph="glyph02201"/>
+            <Ligature components="uni02E7,uni02E6" glyph="glyph02202"/>
+            <Ligature components="uni02E7,uni02E7" glyph="glyph02203"/>
+            <Ligature components="uni02E7,uni02E8" glyph="glyph02204"/>
+            <Ligature components="uni02E7,uni02E9" glyph="glyph02205"/>
+            <Ligature components="uni02E7" glyph="glyph02206"/>
+            <Ligature components="uni02E8,uni02E5" glyph="glyph02207"/>
+            <Ligature components="uni02E8,uni02E6" glyph="glyph02208"/>
+            <Ligature components="uni02E8,uni02E7" glyph="glyph02209"/>
+            <Ligature components="uni02E8,uni02E8" glyph="glyph02210"/>
+            <Ligature components="uni02E8,uni02E9" glyph="glyph02211"/>
+            <Ligature components="uni02E8" glyph="glyph02212"/>
+            <Ligature components="uni02E9,uni02E5" glyph="glyph02213"/>
+            <Ligature components="uni02E9,uni02E6" glyph="glyph02214"/>
+            <Ligature components="uni02E9,uni02E7" glyph="glyph02215"/>
+            <Ligature components="uni02E9,uni02E8" glyph="glyph02216"/>
+            <Ligature components="uni02E9,uni02E9" glyph="glyph02217"/>
+            <Ligature components="uni02E9" glyph="glyph02218"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni02E6">
+            <Ligature components="uni02E5,uni02E5" glyph="glyph02219"/>
+            <Ligature components="uni02E5,uni02E6" glyph="glyph02220"/>
+            <Ligature components="uni02E5,uni02E7" glyph="glyph02221"/>
+            <Ligature components="uni02E5,uni02E8" glyph="glyph02222"/>
+            <Ligature components="uni02E5,uni02E9" glyph="glyph02223"/>
+            <Ligature components="uni02E5" glyph="glyph02224"/>
+            <Ligature components="uni02E6,uni02E5" glyph="glyph02225"/>
+            <Ligature components="uni02E6,uni02E7" glyph="glyph02226"/>
+            <Ligature components="uni02E6,uni02E8" glyph="glyph02227"/>
+            <Ligature components="uni02E6,uni02E9" glyph="glyph02228"/>
+            <Ligature components="uni02E7,uni02E5" glyph="glyph02229"/>
+            <Ligature components="uni02E7,uni02E6" glyph="glyph02230"/>
+            <Ligature components="uni02E7,uni02E7" glyph="glyph02231"/>
+            <Ligature components="uni02E7,uni02E8" glyph="glyph02232"/>
+            <Ligature components="uni02E7,uni02E9" glyph="glyph02233"/>
+            <Ligature components="uni02E7" glyph="glyph02234"/>
+            <Ligature components="uni02E8,uni02E5" glyph="glyph02235"/>
+            <Ligature components="uni02E8,uni02E6" glyph="glyph02236"/>
+            <Ligature components="uni02E8,uni02E7" glyph="glyph02237"/>
+            <Ligature components="uni02E8,uni02E8" glyph="glyph02238"/>
+            <Ligature components="uni02E8,uni02E9" glyph="glyph02239"/>
+            <Ligature components="uni02E8" glyph="glyph02240"/>
+            <Ligature components="uni02E9,uni02E5" glyph="glyph02241"/>
+            <Ligature components="uni02E9,uni02E6" glyph="glyph02242"/>
+            <Ligature components="uni02E9,uni02E7" glyph="glyph02243"/>
+            <Ligature components="uni02E9,uni02E8" glyph="glyph02244"/>
+            <Ligature components="uni02E9,uni02E9" glyph="glyph02245"/>
+            <Ligature components="uni02E9" glyph="glyph02246"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni02E7">
+            <Ligature components="uni02E5,uni02E5" glyph="glyph02247"/>
+            <Ligature components="uni02E5,uni02E6" glyph="glyph02248"/>
+            <Ligature components="uni02E5,uni02E7" glyph="glyph02249"/>
+            <Ligature components="uni02E5,uni02E8" glyph="glyph02250"/>
+            <Ligature components="uni02E5,uni02E9" glyph="glyph02251"/>
+            <Ligature components="uni02E5" glyph="glyph02252"/>
+            <Ligature components="uni02E6,uni02E5" glyph="glyph02253"/>
+            <Ligature components="uni02E6,uni02E6" glyph="glyph02254"/>
+            <Ligature components="uni02E6,uni02E7" glyph="glyph02255"/>
+            <Ligature components="uni02E6,uni02E8" glyph="glyph02256"/>
+            <Ligature components="uni02E6,uni02E9" glyph="glyph02257"/>
+            <Ligature components="uni02E6" glyph="glyph02258"/>
+            <Ligature components="uni02E7,uni02E5" glyph="glyph02259"/>
+            <Ligature components="uni02E7,uni02E6" glyph="glyph02260"/>
+            <Ligature components="uni02E7,uni02E8" glyph="glyph02261"/>
+            <Ligature components="uni02E7,uni02E9" glyph="glyph02262"/>
+            <Ligature components="uni02E8,uni02E5" glyph="glyph02263"/>
+            <Ligature components="uni02E8,uni02E6" glyph="glyph02264"/>
+            <Ligature components="uni02E8,uni02E7" glyph="glyph02265"/>
+            <Ligature components="uni02E8,uni02E8" glyph="glyph02266"/>
+            <Ligature components="uni02E8,uni02E9" glyph="glyph02267"/>
+            <Ligature components="uni02E8" glyph="glyph02268"/>
+            <Ligature components="uni02E9,uni02E5" glyph="glyph02269"/>
+            <Ligature components="uni02E9,uni02E6" glyph="glyph02270"/>
+            <Ligature components="uni02E9,uni02E7" glyph="glyph02271"/>
+            <Ligature components="uni02E9,uni02E8" glyph="glyph02272"/>
+            <Ligature components="uni02E9,uni02E9" glyph="glyph02273"/>
+            <Ligature components="uni02E9" glyph="glyph02274"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni02E8">
+            <Ligature components="uni02E5,uni02E5" glyph="glyph02275"/>
+            <Ligature components="uni02E5,uni02E6" glyph="glyph02276"/>
+            <Ligature components="uni02E5,uni02E7" glyph="glyph02277"/>
+            <Ligature components="uni02E5,uni02E8" glyph="glyph02278"/>
+            <Ligature components="uni02E5,uni02E9" glyph="glyph02279"/>
+            <Ligature components="uni02E5" glyph="glyph02280"/>
+            <Ligature components="uni02E6,uni02E5" glyph="glyph02281"/>
+            <Ligature components="uni02E6,uni02E6" glyph="glyph02282"/>
+            <Ligature components="uni02E6,uni02E7" glyph="glyph02283"/>
+            <Ligature components="uni02E6,uni02E8" glyph="glyph02284"/>
+            <Ligature components="uni02E6,uni02E9" glyph="glyph02285"/>
+            <Ligature components="uni02E6" glyph="glyph02286"/>
+            <Ligature components="uni02E7,uni02E5" glyph="glyph02287"/>
+            <Ligature components="uni02E7,uni02E6" glyph="glyph02288"/>
+            <Ligature components="uni02E7,uni02E7" glyph="glyph02289"/>
+            <Ligature components="uni02E7,uni02E8" glyph="glyph02290"/>
+            <Ligature components="uni02E7,uni02E9" glyph="glyph02291"/>
+            <Ligature components="uni02E7" glyph="glyph02292"/>
+            <Ligature components="uni02E8,uni02E5" glyph="glyph02293"/>
+            <Ligature components="uni02E8,uni02E6" glyph="glyph02294"/>
+            <Ligature components="uni02E8,uni02E7" glyph="glyph02295"/>
+            <Ligature components="uni02E8,uni02E9" glyph="glyph02296"/>
+            <Ligature components="uni02E9" glyph="glyph02302"/>
+            <Ligature components="uni02E9,uni02E5" glyph="glyph02297"/>
+            <Ligature components="uni02E9,uni02E6" glyph="glyph02298"/>
+            <Ligature components="uni02E9,uni02E7" glyph="glyph02299"/>
+            <Ligature components="uni02E9,uni02E8" glyph="glyph02300"/>
+            <Ligature components="uni02E9,uni02E9" glyph="glyph02301"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni02E9">
+            <Ligature components="uni02E5,uni02E5" glyph="glyph02303"/>
+            <Ligature components="uni02E5,uni02E6" glyph="glyph02304"/>
+            <Ligature components="uni02E5,uni02E7" glyph="glyph02305"/>
+            <Ligature components="uni02E5,uni02E8" glyph="glyph02306"/>
+            <Ligature components="uni02E5,uni02E9" glyph="glyph02307"/>
+            <Ligature components="uni02E5" glyph="glyph02308"/>
+            <Ligature components="uni02E6,uni02E5" glyph="glyph02309"/>
+            <Ligature components="uni02E6,uni02E6" glyph="glyph02310"/>
+            <Ligature components="uni02E6,uni02E7" glyph="glyph02311"/>
+            <Ligature components="uni02E6,uni02E8" glyph="glyph02312"/>
+            <Ligature components="uni02E6,uni02E9" glyph="glyph02313"/>
+            <Ligature components="uni02E6" glyph="glyph02314"/>
+            <Ligature components="uni02E7,uni02E5" glyph="glyph02315"/>
+            <Ligature components="uni02E7,uni02E6" glyph="glyph02316"/>
+            <Ligature components="uni02E7,uni02E7" glyph="glyph02317"/>
+            <Ligature components="uni02E7,uni02E8" glyph="glyph02318"/>
+            <Ligature components="uni02E7,uni02E9" glyph="glyph02319"/>
+            <Ligature components="uni02E7" glyph="glyph02320"/>
+            <Ligature components="uni02E8,uni02E5" glyph="glyph02321"/>
+            <Ligature components="uni02E8,uni02E6" glyph="glyph02322"/>
+            <Ligature components="uni02E8,uni02E7" glyph="glyph02323"/>
+            <Ligature components="uni02E8,uni02E8" glyph="glyph02324"/>
+            <Ligature components="uni02E8,uni02E9" glyph="glyph02325"/>
+            <Ligature components="uni02E8" glyph="glyph02326"/>
+            <Ligature components="uni02E9,uni02E5" glyph="glyph02327"/>
+            <Ligature components="uni02E9,uni02E6" glyph="glyph02328"/>
+            <Ligature components="uni02E9,uni02E7" glyph="glyph02329"/>
+            <Ligature components="uni02E9,uni02E8" glyph="glyph02330"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="2">
+            <Glyph value="i"/>
+            <Glyph value="j"/>
+            <Glyph value="uni0268"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="gravecomb"/>
+            <Glyph value="acutecomb"/>
+            <Glyph value="tildecomb"/>
+            <Glyph value="uni0483"/>
+            <Glyph value="uni0484"/>
+            <Glyph value="uni0485"/>
+            <Glyph value="uni0486"/>
+            <Glyph value="uni030F"/>
+            <Glyph value="uni0302"/>
+            <Glyph value="uni0304"/>
+            <Glyph value="uni0305"/>
+            <Glyph value="uni0306"/>
+            <Glyph value="uni0307"/>
+            <Glyph value="uni0308"/>
+            <Glyph value="hookabovecomb"/>
+            <Glyph value="uni030A"/>
+            <Glyph value="uni030B"/>
+            <Glyph value="uni030C"/>
+            <Glyph value="uni030D"/>
+            <Glyph value="uni030E"/>
+            <Glyph value="uni0310"/>
+            <Glyph value="uni0311"/>
+            <Glyph value="uni0312"/>
+            <Glyph value="uni0313"/>
+            <Glyph value="uni0314"/>
+            <Glyph value="uni031A"/>
+            <Glyph value="uni033D"/>
+            <Glyph value="uni033E"/>
+            <Glyph value="uni033F"/>
+            <Glyph value="uni0342"/>
+            <Glyph value="uni0343"/>
+            <Glyph value="uni0344"/>
+            <Glyph value="uni0346"/>
+            <Glyph value="uni034A"/>
+            <Glyph value="uni034B"/>
+            <Glyph value="uni034C"/>
+            <Glyph value="uni0350"/>
+            <Glyph value="uni0351"/>
+            <Glyph value="uni0352"/>
+            <Glyph value="uni0357"/>
+            <Glyph value="uni035B"/>
+            <Glyph value="uni0363"/>
+            <Glyph value="uni0364"/>
+            <Glyph value="uni0365"/>
+            <Glyph value="uni0366"/>
+            <Glyph value="uni0367"/>
+            <Glyph value="uni0368"/>
+            <Glyph value="uni0369"/>
+            <Glyph value="uni036A"/>
+            <Glyph value="uni036B"/>
+            <Glyph value="uni036C"/>
+            <Glyph value="uni036D"/>
+            <Glyph value="uni036E"/>
+            <Glyph value="uni036F"/>
+            <Glyph value="uni1DC0"/>
+            <Glyph value="uni1DC1"/>
+            <Glyph value="uni1DC3"/>
+            <Glyph value="uni1DC4"/>
+            <Glyph value="uni1DC5"/>
+            <Glyph value="uni1DC6"/>
+            <Glyph value="uni1DC7"/>
+            <Glyph value="uni1DC8"/>
+            <Glyph value="uni1DC9"/>
+            <Glyph value="uni1DFE"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="3"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="alpha">
+            <Ligature components="uni0304,uni0313,gravecomb" glyph="glyph02331"/>
+            <Ligature components="uni0304,uni0313,acutecomb" glyph="glyph02332"/>
+            <Ligature components="uni0304,uni0314,gravecomb" glyph="glyph02333"/>
+            <Ligature components="uni0304,uni0314,acutecomb" glyph="glyph02334"/>
+            <Ligature components="uni0306,uni0313,gravecomb" glyph="glyph02335"/>
+            <Ligature components="uni0306,uni0313,acutecomb" glyph="glyph02336"/>
+            <Ligature components="uni0306,uni0314,gravecomb" glyph="glyph02337"/>
+            <Ligature components="uni0306,uni0314,acutecomb" glyph="glyph02338"/>
+          </LigatureSet>
+          <LigatureSet glyph="iota">
+            <Ligature components="uni0304,uni0313,gravecomb" glyph="glyph02339"/>
+            <Ligature components="uni0304,uni0313,acutecomb" glyph="glyph02340"/>
+            <Ligature components="uni0304,uni0314,gravecomb" glyph="glyph02341"/>
+            <Ligature components="uni0304,uni0314,acutecomb" glyph="glyph02342"/>
+            <Ligature components="uni0306,uni0313,gravecomb" glyph="glyph02343"/>
+            <Ligature components="uni0306,uni0313,acutecomb" glyph="glyph02344"/>
+            <Ligature components="uni0306,uni0314,gravecomb" glyph="glyph02345"/>
+            <Ligature components="uni0306,uni0314,acutecomb" glyph="glyph02346"/>
+            <Ligature components="uni0308,uni0304,gravecomb" glyph="glyph02355"/>
+            <Ligature components="uni0308,uni0304,acutecomb" glyph="glyph02356"/>
+            <Ligature components="uni0308,uni0306,gravecomb" glyph="glyph02357"/>
+            <Ligature components="uni0308,uni0306,acutecomb" glyph="glyph02358"/>
+          </LigatureSet>
+          <LigatureSet glyph="upsilon">
+            <Ligature components="uni0304,uni0313,gravecomb" glyph="glyph02347"/>
+            <Ligature components="uni0304,uni0313,acutecomb" glyph="glyph02348"/>
+            <Ligature components="uni0304,uni0314,gravecomb" glyph="glyph02349"/>
+            <Ligature components="uni0304,uni0314,acutecomb" glyph="glyph02350"/>
+            <Ligature components="uni0306,uni0313,gravecomb" glyph="glyph02351"/>
+            <Ligature components="uni0306,uni0313,acutecomb" glyph="glyph02352"/>
+            <Ligature components="uni0306,uni0314,gravecomb" glyph="glyph02353"/>
+            <Ligature components="uni0306,uni0314,acutecomb" glyph="glyph02354"/>
+            <Ligature components="uni0308,uni0304,gravecomb" glyph="glyph02359"/>
+            <Ligature components="uni0308,uni0304,acutecomb" glyph="glyph02360"/>
+            <Ligature components="uni0308,uni0306,gravecomb" glyph="glyph02361"/>
+            <Ligature components="uni0308,uni0306,acutecomb" glyph="glyph02362"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="i" out="dotlessi"/>
+          <Substitution in="j" out="uni0237"/>
+          <Substitution in="uni0268" out="uni1D7B"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
